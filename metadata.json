@@ -1,8 +1,8 @@
 {
-  "name": "Sui Token",
-  "image": "https://raw.githubusercontent.com/asd138855/oBTC/main/icon.png",
+  "name": "SUI",
   "symbol": "SUI",
-  "description": "Sui Token is a cryptocurrency you can mine from anywhere, at home or on your phone.",
-  "twitter": "https://x.com/Fame_Protocol",
-  "website": "https://ore.supply"
+  "image": "https://raw.githubusercontent.com/asd138855/oBTC/main/icon.png",
+  "description": "",
+  "sellerFeeBasisPoints": 0,
+  "icon": "https://raw.githubusercontent.com/asd138855/oBTC/main/icon.png"
 }
